@@ -27,6 +27,7 @@ pids
 .vscode/
 *.swp
 *.swo
+
 *.swn
 
 # OS-specific
